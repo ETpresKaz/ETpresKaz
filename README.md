@@ -6,11 +6,6 @@ Computer Science @ Purdue University
 
 SOFTWARE ENGINEERING · ROBOTICS · ARTIFICIAL INTELLIGENCE · AEROSPACE
 
-<br>
-
-Building at the intersection of software, intelligent systems, and ambitious ideas.
-
-<br>
 </div>
 <br>
 
@@ -104,9 +99,6 @@ FEATURED WORK
   <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB">
   <img src="https://img.shields.io/badge/LLM-0D1117?style=flat-square&logo=ollama&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/FAISS-0D1117?style=flat-square">
-</p>
-<p align="center">
-  <a href="YOUR_VISOR_REPO">View Repository →</a>
 </p>
 </td>
 </tr>
