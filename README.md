@@ -9,9 +9,7 @@ SOFTWARE ENGINEERING · ROBOTICS · ARTIFICIAL INTELLIGENCE · AEROSPACE
 </div>
 <br>
 
-⸻
-
-ABOUT
+ABOUT ME
 
 I'm a Computer Science student at Purdue University, focused on building software products and exploring intellegent systems.
 
